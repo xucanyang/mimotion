@@ -1,10 +1,10 @@
 name: Random Cron
-on:
-  workflow_run:
-    workflows: ["刷步数"]
-    types:
-      - completed
-  workflow_dispatch:
+#on#
+#  workflow_run#
+#    #    workflows: ["
+ #    #   t
+#      - completed
+#  workflow_dispatch:
 
 jobs:
   repo-sync:
