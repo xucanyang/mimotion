@@ -1,9 +1,9 @@
 name: 刷步数
 
-on:
-  schedule:
-    - cron: '0 4,6,8 * * *'
-  workflow_dispatch:
+#on#
+#  #  schedu
+#    - #    - cron: '0 4,6,8
+ #  # workflow_dispat
 
 jobs:
   build:
